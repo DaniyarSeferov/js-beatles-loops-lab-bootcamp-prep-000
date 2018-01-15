@@ -24,4 +24,6 @@ function iLoveTheBeatles(amount) {
     amount++
   }
   while (amount < 15)
+  
+  return newArray
 }
